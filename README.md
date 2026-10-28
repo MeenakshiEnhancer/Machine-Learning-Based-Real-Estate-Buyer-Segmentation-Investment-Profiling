@@ -8,7 +8,7 @@ An interactive Streamlit dashboard presents the analysis through visualizations 
 
 ### 🛠️ Tech Stack
 
- Python |  Pandas |  Scikit-learn | 📊 Plotly | 🌐 Streamlit
+ Python |  Pandas |  Scikit-learn |Seaborn | Matplotlib| Plotly | Streamlit
 
 ### 📂 Project Files
 
